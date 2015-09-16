@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: 9c958e473f4323a4380db789baf0e452
+timeCreated: 1429171375
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: group1
+    100002: group1 1
+    100004: group1 2
+    100006: group2
+    100008: group2 1
+    100010: group2 2
+    100012: group3
+    100014: group4
+    100016: group5
+    100018: pCube1
+    100020: pCube1 1
+    100022: pCube1 2
+    100024: pCube10
+    100026: pCube11
+    100028: pCube12
+    100030: pCube13
+    100032: pCube14
+    100034: pCube15
+    100036: pCube16
+    100038: pCube2
+    100040: pCube2 1
+    100042: pCube2 2
+    100044: pCube3
+    100046: pCube3 1
+    100048: pCube3 2
+    100050: pCube4
+    100052: pCube4 1
+    100054: pCube4 2
+    100056: pCube4 3
+    100058: pCube5
+    100060: pCube5 1
+    100062: pCube5 2
+    100064: pCube6
+    100066: pCube6 1
+    100068: pCube6 2
+    100070: pCube6 3
+    100072: pCube7
+    100074: pCube7 1
+    100076: pCube7 2
+    100078: pCube7 3
+    100080: pCube7 4
+    100082: pCube7 5
+    100084: pCube8
+    100086: pCube8 1
+    100088: pCube8 2
+    100090: pCube8 3
+    100092: pCube8 4
+    100094: pCube8 5
+    100096: pCube9
+    100098: pCube9 1
+    100100: pCube9 2
+    100102: pCube9 3
+    100104: pCube9 4
+    100106: pCube9 5
+    100108: //RootNode
+    100110: group6
+    100112: group7
+    100114: pCube10 1
+    100116: pCube11 1
+    100118: pCube12 1
+    100120: pCube13 1
+    100122: pCube14 1
+    100124: pCube15 1
+    100126: pCube16 1
+    100128: pCube17
+    100130: pCube17 1
+    100132: pCube18
+    100134: pCube18 1
+    100136: pCube19
+    100138: pCube19 1
+    100140: pCube20
+    100142: pCube20 1
+    100144: pCube21
+    100146: pCube21 1
+    100148: pCube22
+    100150: pCube22 1
+    100152: pCube23
+    100154: pCube23 1
+    100156: pCube24
+    100158: pCube24 1
+    100160: pCube25
+    100162: pCube25 1
+    100164: pCube26
+    100166: pCube26 1
+    100168: pCube27
+    100170: pCube27 1
+    100172: pCube28
+    100174: pCube28 1
+    100176: pCube29
+    100178: pCube29 1
+    100180: pCube30
+    100182: pCube30 1
+    100184: pCube31
+    100186: pCube31 1
+    100188: pCube32
+    100190: pCube32 1
+    100192: pCube33
+    100194: pCube33 1
+    100196: pCube34
+    100198: pCube34 1
+    100200: pCube35
+    100202: pCube35 1
+    100204: pCube36
+    100206: pCube36 1
+    100208: pCube37
+    100210: pCube37 1
+    100212: pCube38
+    100214: pCube38 1
+    100216: pCube39
+    100218: pCube39 1
+    100220: pCube40
+    100222: pCube40 1
+    100224: pCube41
+    100226: pCube41 1
+    100228: pCube42
+    100230: pCube42 1
+    100232: pCube43
+    100234: pCube43 1
+    100236: pCube44
+    100238: pCube44 1
+    100240: pCube45
+    100242: pCube45 1
+    400000: group1
+    400002: group1 1
+    400004: group1 2
+    400006: group2
+    400008: group2 1
+    400010: group2 2
+    400012: group3
+    400014: group4
+    400016: group5
+    400018: pCube1
+    400020: pCube1 1
+    400022: pCube1 2
+    400024: pCube10
+    400026: pCube11
+    400028: pCube12
+    400030: pCube13
+    400032: pCube14
+    400034: pCube15
+    400036: pCube16
+    400038: pCube2
+    400040: pCube2 1
+    400042: pCube2 2
+    400044: pCube3
+    400046: pCube3 1
+    400048: pCube3 2
+    400050: pCube4
+    400052: pCube4 1
+    400054: pCube4 2
+    400056: pCube4 3
+    400058: pCube5
+    400060: pCube5 1
+    400062: pCube5 2
+    400064: pCube6
+    400066: pCube6 1
+    400068: pCube6 2
+    400070: pCube6 3
+    400072: pCube7
+    400074: pCube7 1
+    400076: pCube7 2
+    400078: pCube7 3
+    400080: pCube7 4
+    400082: pCube7 5
+    400084: pCube8
+    400086: pCube8 1
+    400088: pCube8 2
+    400090: pCube8 3
+    400092: pCube8 4
+    400094: pCube8 5
+    400096: pCube9
+    400098: pCube9 1
+    400100: pCube9 2
+    400102: pCube9 3
+    400104: pCube9 4
+    400106: pCube9 5
+    400108: //RootNode
+    400110: group6
+    400112: group7
+    400114: pCube10 1
+    400116: pCube11 1
+    400118: pCube12 1
+    400120: pCube13 1
+    400122: pCube14 1
+    400124: pCube15 1
+    400126: pCube16 1
+    400128: pCube17
+    400130: pCube17 1
+    400132: pCube18
+    400134: pCube18 1
+    400136: pCube19
+    400138: pCube19 1
+    400140: pCube20
+    400142: pCube20 1
+    400144: pCube21
+    400146: pCube21 1
+    400148: pCube22
+    400150: pCube22 1
+    400152: pCube23
+    400154: pCube23 1
+    400156: pCube24
+    400158: pCube24 1
+    400160: pCube25
+    400162: pCube25 1
+    400164: pCube26
+    400166: pCube26 1
+    400168: pCube27
+    400170: pCube27 1
+    400172: pCube28
+    400174: pCube28 1
+    400176: pCube29
+    400178: pCube29 1
+    400180: pCube30
+    400182: pCube30 1
+    400184: pCube31
+    400186: pCube31 1
+    400188: pCube32
+    400190: pCube32 1
+    400192: pCube33
+    400194: pCube33 1
+    400196: pCube34
+    400198: pCube34 1
+    400200: pCube35
+    400202: pCube35 1
+    400204: pCube36
+    400206: pCube36 1
+    400208: pCube37
+    400210: pCube37 1
+    400212: pCube38
+    400214: pCube38 1
+    400216: pCube39
+    400218: pCube39 1
+    400220: pCube40
+    400222: pCube40 1
+    400224: pCube41
+    400226: pCube41 1
+    400228: pCube42
+    400230: pCube42 1
+    400232: pCube43
+    400234: pCube43 1
+    400236: pCube44
+    400238: pCube44 1
+    400240: pCube45
+    400242: pCube45 1
+    2300000: pCube1
+    2300002: pCube1 1
+    2300004: pCube1 2
+    2300006: pCube10
+    2300008: pCube11
+    2300010: pCube12
+    2300012: pCube13
+    2300014: pCube14
+    2300016: pCube15
+    2300018: pCube16
+    2300020: pCube2
+    2300022: pCube2 1
+    2300024: pCube2 2
+    2300026: pCube3
+    2300028: pCube3 1
+    2300030: pCube3 2
+    2300032: pCube4
+    2300034: pCube4 1
+    2300036: pCube4 2
+    2300038: pCube4 3
+    2300040: pCube5
+    2300042: pCube5 1
+    2300044: pCube5 2
+    2300046: pCube6
+    2300048: pCube6 1
+    2300050: pCube6 2
+    2300052: pCube6 3
+    2300054: pCube7
+    2300056: pCube7 1
+    2300058: pCube7 2
+    2300060: pCube7 3
+    2300062: pCube7 4
+    2300064: pCube7 5
+    2300066: pCube8
+    2300068: pCube8 1
+    2300070: pCube8 2
+    2300072: pCube8 3
+    2300074: pCube8 4
+    2300076: pCube8 5
+    2300078: pCube9
+    2300080: pCube9 1
+    2300082: pCube9 2
+    2300084: pCube9 3
+    2300086: pCube9 4
+    2300088: pCube9 5
+    2300090: pCube10 1
+    2300092: pCube11 1
+    2300094: pCube12 1
+    2300096: pCube13 1
+    2300098: pCube14 1
+    2300100: pCube15 1
+    2300102: pCube16 1
+    2300104: pCube17
+    2300106: pCube17 1
+    2300108: pCube18
+    2300110: pCube18 1
+    2300112: pCube19
+    2300114: pCube19 1
+    2300116: pCube20
+    2300118: pCube20 1
+    2300120: pCube21
+    2300122: pCube21 1
+    2300124: pCube22
+    2300126: pCube22 1
+    2300128: pCube23
+    2300130: pCube23 1
+    2300132: pCube24
+    2300134: pCube24 1
+    2300136: pCube25
+    2300138: pCube25 1
+    2300140: pCube26
+    2300142: pCube26 1
+    2300144: pCube27
+    2300146: pCube27 1
+    2300148: pCube28
+    2300150: pCube28 1
+    2300152: pCube29
+    2300154: pCube29 1
+    2300156: pCube30
+    2300158: pCube30 1
+    2300160: pCube31
+    2300162: pCube31 1
+    2300164: pCube32
+    2300166: pCube32 1
+    2300168: pCube33
+    2300170: pCube33 1
+    2300172: pCube34
+    2300174: pCube34 1
+    2300176: pCube35
+    2300178: pCube35 1
+    2300180: pCube36
+    2300182: pCube36 1
+    2300184: pCube37
+    2300186: pCube37 1
+    2300188: pCube38
+    2300190: pCube38 1
+    2300192: pCube39
+    2300194: pCube39 1
+    2300196: pCube40
+    2300198: pCube40 1
+    2300200: pCube41
+    2300202: pCube41 1
+    2300204: pCube42
+    2300206: pCube42 1
+    2300208: pCube43
+    2300210: pCube43 1
+    2300212: pCube44
+    2300214: pCube44 1
+    2300216: pCube45
+    2300218: pCube45 1
+    3300000: pCube1
+    3300002: pCube1 1
+    3300004: pCube1 2
+    3300006: pCube10
+    3300008: pCube11
+    3300010: pCube12
+    3300012: pCube13
+    3300014: pCube14
+    3300016: pCube15
+    3300018: pCube16
+    3300020: pCube2
+    3300022: pCube2 1
+    3300024: pCube2 2
+    3300026: pCube3
+    3300028: pCube3 1
+    3300030: pCube3 2
+    3300032: pCube4
+    3300034: pCube4 1
+    3300036: pCube4 2
+    3300038: pCube4 3
+    3300040: pCube5
+    3300042: pCube5 1
+    3300044: pCube5 2
+    3300046: pCube6
+    3300048: pCube6 1
+    3300050: pCube6 2
+    3300052: pCube6 3
+    3300054: pCube7
+    3300056: pCube7 1
+    3300058: pCube7 2
+    3300060: pCube7 3
+    3300062: pCube7 4
+    3300064: pCube7 5
+    3300066: pCube8
+    3300068: pCube8 1
+    3300070: pCube8 2
+    3300072: pCube8 3
+    3300074: pCube8 4
+    3300076: pCube8 5
+    3300078: pCube9
+    3300080: pCube9 1
+    3300082: pCube9 2
+    3300084: pCube9 3
+    3300086: pCube9 4
+    3300088: pCube9 5
+    3300090: pCube10 1
+    3300092: pCube11 1
+    3300094: pCube12 1
+    3300096: pCube13 1
+    3300098: pCube14 1
+    3300100: pCube15 1
+    3300102: pCube16 1
+    3300104: pCube17
+    3300106: pCube17 1
+    3300108: pCube18
+    3300110: pCube18 1
+    3300112: pCube19
+    3300114: pCube19 1
+    3300116: pCube20
+    3300118: pCube20 1
+    3300120: pCube21
+    3300122: pCube21 1
+    3300124: pCube22
+    3300126: pCube22 1
+    3300128: pCube23
+    3300130: pCube23 1
+    3300132: pCube24
+    3300134: pCube24 1
+    3300136: pCube25
+    3300138: pCube25 1
+    3300140: pCube26
+    3300142: pCube26 1
+    3300144: pCube27
+    3300146: pCube27 1
+    3300148: pCube28
+    3300150: pCube28 1
+    3300152: pCube29
+    3300154: pCube29 1
+    3300156: pCube30
+    3300158: pCube30 1
+    3300160: pCube31
+    3300162: pCube31 1
+    3300164: pCube32
+    3300166: pCube32 1
+    3300168: pCube33
+    3300170: pCube33 1
+    3300172: pCube34
+    3300174: pCube34 1
+    3300176: pCube35
+    3300178: pCube35 1
+    3300180: pCube36
+    3300182: pCube36 1
+    3300184: pCube37
+    3300186: pCube37 1
+    3300188: pCube38
+    3300190: pCube38 1
+    3300192: pCube39
+    3300194: pCube39 1
+    3300196: pCube40
+    3300198: pCube40 1
+    3300200: pCube41
+    3300202: pCube41 1
+    3300204: pCube42
+    3300206: pCube42 1
+    3300208: pCube43
+    3300210: pCube43 1
+    3300212: pCube44
+    3300214: pCube44 1
+    3300216: pCube45
+    3300218: pCube45 1
+    4300000: pCube7
+    4300002: pCube3
+    4300004: pCube8
+    4300006: pCube6
+    4300008: pCube5
+    4300010: pCube9
+    4300012: pCube4
+    4300014: pCube1
+    4300016: pCube2
+    4300018: pCube7
+    4300020: pCube8
+    4300022: pCube9
+    4300024: pCube12
+    4300026: pCube13
+    4300028: pCube14
+    4300030: pCube7
+    4300032: pCube3
+    4300034: pCube8
+    4300036: pCube6
+    4300038: pCube5
+    4300040: pCube9
+    4300042: pCube4
+    4300044: pCube1
+    4300046: pCube2
+    4300048: pCube7
+    4300050: pCube8
+    4300052: pCube6
+    4300054: pCube9
+    4300056: pCube15
+    4300058: pCube16
+    4300060: pCube7
+    4300062: pCube3
+    4300064: pCube8
+    4300066: pCube6
+    4300068: pCube5
+    4300070: pCube9
+    4300072: pCube4
+    4300074: pCube1
+    4300076: pCube2
+    4300078: pCube7
+    4300080: pCube8
+    4300082: pCube9
+    4300084: pCube4
+    4300086: pCube10
+    4300088: pCube11
+    4300090: pCube17
+    4300092: pCube18
+    4300094: pCube19
+    4300096: pCube20
+    4300098: pCube21
+    4300100: pCube22
+    4300102: pCube23
+    4300104: pCube24
+    4300106: pCube25
+    4300108: pCube26
+    4300110: pCube27
+    4300112: pCube28
+    4300114: pCube29
+    4300116: pCube30
+    4300118: pCube31
+    4300120: pCube32
+    4300122: pCube33
+    4300124: pCube34
+    4300126: pCube35
+    4300128: pCube36
+    4300130: pCube37
+    4300132: pCube38
+    4300134: pCube39
+    4300136: pCube40
+    4300138: pCube41
+    4300140: pCube42
+    4300142: pCube43
+    4300144: pCube44
+    4300146: pCube45
+    4300148: pCube17
+    4300150: pCube18
+    4300152: pCube19
+    4300154: pCube12
+    4300156: pCube13
+    4300158: pCube14
+    4300160: pCube20
+    4300162: pCube21
+    4300164: pCube22
+    4300166: pCube23
+    4300168: pCube24
+    4300170: pCube25
+    4300172: pCube26
+    4300174: pCube27
+    4300176: pCube28
+    4300178: pCube29
+    4300180: pCube30
+    4300182: pCube31
+    4300184: pCube32
+    4300186: pCube15
+    4300188: pCube16
+    4300190: pCube33
+    4300192: pCube34
+    4300194: pCube35
+    4300196: pCube36
+    4300198: pCube37
+    4300200: pCube38
+    4300202: pCube39
+    4300204: pCube40
+    4300206: pCube41
+    4300208: pCube42
+    4300210: pCube43
+    4300212: pCube44
+    4300214: pCube45
+    4300216: pCube10
+    4300218: pCube11
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
